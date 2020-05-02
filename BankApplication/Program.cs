@@ -15,7 +15,7 @@ namespace BankApplication
                 ConsoleColor color = Console.ForegroundColor;
                 Console.ForegroundColor = ConsoleColor.DarkGreen;
                 Console.WriteLine("1. To open the account \t 2. To withdraw amount \t 3. To put on account");
-                Console.WriteLine("4. To cloe the account \t 5. Miss the day \t 6. To leave the program");
+                Console.WriteLine("4. To cloe the account \t  5. Miss the day \t 6. To leave the program");
                 Console.WriteLine("Enter number");
                 Console.ForegroundColor = color;
                 try
